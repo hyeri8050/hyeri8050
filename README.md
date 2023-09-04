@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### Major : Electronic Engineering
+
+
 <!--
 **hyeri8050/hyeri8050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
